@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UTS_PBO_SEMESTER2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76838ea2e1487d43cf3f488b085ed668de69dcb3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+505991afc0355b9839bd2867bdca05af2cd274aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("UTS_PBO_SEMESTER2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UTS_PBO_SEMESTER2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
