@@ -1,0 +1,15 @@
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.AssemblyInfoInputs.cache
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.AssemblyInfo.cs
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.csproj.CoreCompileInputs.cache
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.sourcelink.json
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\bin\Debug\net10.0\UTS_PBO_SEMESTER2.exe
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\bin\Debug\net10.0\UTS_PBO_SEMESTER2.deps.json
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\bin\Debug\net10.0\UTS_PBO_SEMESTER2.runtimeconfig.json
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\bin\Debug\net10.0\UTS_PBO_SEMESTER2.dll
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\bin\Debug\net10.0\UTS_PBO_SEMESTER2.pdb
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.dll
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\refint\UTS_PBO_SEMESTER2.dll
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.pdb
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\UTS_PBO_SEMESTER2.genruntimeconfig.cache
+C:\Users\ADVAN\source\repos\UTS_PBO_SEMESTER2\UTS_PBO_SEMESTER2\obj\Debug\net10.0\ref\UTS_PBO_SEMESTER2.dll
